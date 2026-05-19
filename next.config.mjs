@@ -4,3 +4,4 @@ const nextConfig = {
 };
 
 export default nextConfig;
+output: 'export',
